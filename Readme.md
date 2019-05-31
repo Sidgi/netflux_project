@@ -1,0 +1,1 @@
+# Project with Lars Thrasher, building mock netflix site, "netflux", using Ruby on Rails framework to construct the  back-end, as well as React for the front end.  Enjoy!
